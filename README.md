@@ -32,9 +32,6 @@ This project:
 - **n = 4** is too centrally condensed and leaves an almost empty envelope, so it is
   not a realistic model of a stable main-sequence star.
 
-![θ(ξ) for n = 1.5, 3, 4](plots/theta_xi.png)
-![Density profiles vs MESA](plots/mesa_comparison.png)
-
 ## Repository structure
 
     ├── code/
@@ -59,8 +56,6 @@ The MESA comparison uses the 1.0 M☉ ZAMS model file `zams_1.0.mod` from:
 
 Li, B. et al. (2025). *MESA files for the binary estimations of M2C*. Zenodo.
 https://doi.org/10.5281/zenodo.15778913
-
-Download it and place it in the `data/` folder.
 
 ## Method notes
 
